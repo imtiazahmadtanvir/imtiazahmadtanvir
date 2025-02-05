@@ -2,8 +2,25 @@
 
 
 <h1 align="center">Hello There..👋🏽 I am Imtiaz Ahmad Tanvir!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imtiazahmadtanvir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=imtiazahmadtanvir&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
+
+
+
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
