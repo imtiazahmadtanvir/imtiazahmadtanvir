@@ -18,13 +18,40 @@
 </div>
 
 ###
-
 <h2 align="center">About me</h2>
 
 ###
 
-<p align="center">I'm a passionate developer who loves building innovative web solutions.  
-I thrive on learning new technologies and creating impactful projects. Let's build something amazing together!**
+<p align="left">
+🌟 Hi there!  
+I'm Imtiaz Ahmad Tanvir, a dedicated Web Develope passionate about crafting dynamic and impactful web applications. My journey in software development has been fueled by curiosity and a desire to solve real-world problems through code.
+
+---
+
+### 🚀 What Drives Me:  
+I thrive on:  
+- Exploring the latest technologies  
+- Transforming creative ideas into elegant solutions  
+- Delivering meaningful user experiences  
+From **frontend interfaces** to **backend architecture**, I strive to build scalable and maintainable applications.
+
+---
+
+### 🎯 Current Focus:  
+- 🔍 Exploring advanced concepts in **Next.js** and **React Native**  
+- 🛠️ Building innovative and responsive web applications  
+- 📊 Enhancing backend performance using **Node.js** and **MongoDB**  
+
+---
+
+### 💡 Core Values:  
+- 📚 Continuous Learning  
+- 💻 Clean and Maintainable Code  
+- 🤝 Collaborative Problem-Solving  
+
+---
+
+
 </p>
 
 ###
