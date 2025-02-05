@@ -17,7 +17,17 @@
   </a>
 </div>
 
+###
 
+<h2 align="center">About me</h2>
+
+###
+
+<p align="center">I'm a passionate developer who loves building innovative web solutions.  
+I thrive on learning new technologies and creating impactful projects. Let's build something amazing together!**
+</p>
+
+###
 
 
 ###
