@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/imtiazahmadtanvir/imtiazahmadtanvir/refs/heads/main/imtiaz.png)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/imtiazahmadtanvir/imtiazahmadtanvir/refs/heads/main/banner.png)
 
 
 <h1 align="center">Hello There..👋🏽 I am Imtiaz Ahmad Tanvir!</h1>
