@@ -94,6 +94,8 @@ From **frontend interfaces** to **backend architecture**, I strive to build scal
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/339933" height="40" alt="nextjs logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
